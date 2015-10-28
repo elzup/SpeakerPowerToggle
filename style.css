@@ -1,6 +1,7 @@
 
 html, body {
-  background: #ffe0a3
+  background: #ffe0a3;
+  font-family: 'Dosis', sans-serif !important;
 }
 
 #icon-wrapper {
